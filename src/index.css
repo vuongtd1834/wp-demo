@@ -1,0 +1,10 @@
+.wrapper {
+    color: cyan;
+    display: flex;
+    width: 50wh;
+    height: 50vh;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    background: url("../baifern.jpg");
+}
